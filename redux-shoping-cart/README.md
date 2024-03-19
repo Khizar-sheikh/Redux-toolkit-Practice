@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-Once the development server is running, you can access the application in your web browser at `http://localhost:3000`.
+Once the development server is running, you can access the application in your web browser at `http://localhost:5173`.
 
 ### Features
 
